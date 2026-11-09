@@ -2,6 +2,7 @@
 Cubic Equation of State PVT & Fugacity Explorer
 Desktop Application (Tkinter + Matplotlib)
 Solver: Class-based Newton-Raphson algorithm initialized with Cauchy's bound.
+
 """
 
 import math
